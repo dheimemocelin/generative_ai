@@ -1,0 +1,426 @@
+[
+  {
+    "id": 1,
+    "name": "Devweekerson",
+    "account": {
+      "id": 1,
+      "number": "01.097954-4",
+      "agency": "2030",
+      "balance": 624.12,
+      "limit": 1000.0
+    },
+    "card": {
+      "id": 1,
+      "number": "xxxx xxxx xxxx 1111",
+      "limit": 2000.0
+    },
+    "features": [
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cart\u00f5es"
+      },
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Fa\u00e7a seu dinheiro trabalhar para voc\u00ea - invista com sabedoria!"
+  },
+  {
+    "id": 2,
+    "name": "User2",
+    "account": {
+      "id": 2,
+      "number": "02.123456-2",
+      "agency": "2020",
+      "balance": 2000.0,
+      "limit": 1900.0
+    },
+    "card": {
+      "id": 2,
+      "number": "xxxx xxxx xxxx 2222",
+      "limit": 3100.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Maximize seus ganhos com nossas op\u00e7\u00f5es de investimento de alto rendimento."
+  },
+  {
+    "id": 3,
+    "name": "User3",
+    "account": {
+      "id": 3,
+      "number": "03.123456-3",
+      "agency": "2030",
+      "balance": 2500.0,
+      "limit": 2100.0
+    },
+    "card": {
+      "id": 3,
+      "number": "xxxx xxxx xxxx 3333",
+      "limit": 3400.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Aproveite as oportunidades de investimento com potencial de crescimento exponencial."
+  },
+  {
+    "id": 4,
+    "name": "User4",
+    "account": {
+      "id": 4,
+      "number": "04.123456-4",
+      "agency": "2040",
+      "balance": 3000.0,
+      "limit": 2300.0
+    },
+    "card": {
+      "id": 4,
+      "number": "xxxx xxxx xxxx 4444",
+      "limit": 3700.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Maximize seus ganhos com nossas op\u00e7\u00f5es de investimento de alto rendimento."
+  },
+  {
+    "id": 5,
+    "name": "User5",
+    "account": {
+      "id": 5,
+      "number": "05.123456-5",
+      "agency": "2050",
+      "balance": 3500.0,
+      "limit": 2500.0
+    },
+    "card": {
+      "id": 5,
+      "number": "xxxx xxxx xxxx 5555",
+      "limit": 4000.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Fa\u00e7a seu dinheiro trabalhar para voc\u00ea - invista com sabedoria!"
+  },
+  {
+    "id": 2,
+    "name": "User2",
+    "account": {
+      "id": 2,
+      "number": "02.123456-2",
+      "agency": "2020",
+      "balance": 2000.0,
+      "limit": 1900.0
+    },
+    "card": {
+      "id": 2,
+      "number": "xxxx xxxx xxxx 2222",
+      "limit": 3100.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Proteja seu futuro financeiro com nossas solu\u00e7\u00f5es de investimento s\u00f3lidas."
+  },
+  {
+    "id": 3,
+    "name": "User3",
+    "account": {
+      "id": 3,
+      "number": "03.123456-3",
+      "agency": "2030",
+      "balance": 2500.0,
+      "limit": 2100.0
+    },
+    "card": {
+      "id": 3,
+      "number": "xxxx xxxx xxxx 3333",
+      "limit": 3400.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Procurando por seguran\u00e7a financeira? Descubra nossos investimentos de baixo risco."
+  },
+  {
+    "id": 4,
+    "name": "User4",
+    "account": {
+      "id": 4,
+      "number": "04.123456-4",
+      "agency": "2040",
+      "balance": 3000.0,
+      "limit": 2300.0
+    },
+    "card": {
+      "id": 4,
+      "number": "xxxx xxxx xxxx 4444",
+      "limit": 3700.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Fa\u00e7a seu dinheiro trabalhar para voc\u00ea - invista com sabedoria!"
+  },
+  {
+    "id": 5,
+    "name": "User5",
+    "account": {
+      "id": 5,
+      "number": "05.123456-5",
+      "agency": "2050",
+      "balance": 3500.0,
+      "limit": 2500.0
+    },
+    "card": {
+      "id": 5,
+      "number": "xxxx xxxx xxxx 5555",
+      "limit": 4000.0
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "O Santander tem solu\u00e7\u00f5es de cr\u00e9dito sob medida pra voc\u00ea. Confira!"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/insurance.svg",
+        "description": "Santander Seguro Casa, seu faz-tudo. Mais de 50 servi\u00e7os pra voc\u00ea. Confira!"
+      }
+    ],
+    "marketing_message": "Aproveite as oportunidades de investimento com potencial de crescimento exponencial."
+  }
+]
